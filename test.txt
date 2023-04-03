@@ -1,1 +1,2 @@
 Hello, this is a test file.
+Adding something new in RStudio!
