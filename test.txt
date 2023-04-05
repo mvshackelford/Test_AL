@@ -1,4 +1,11 @@
 Hello, this is a test file.
+<<<<<<< HEAD
 
 Adding something new in RStudio!
 New line added in on 4/4
+=======
+Adding something new in RStudio!
+>>>>>>> b28875b18bda539df91e031ec8b8b97af6ae6203
+
+New
+
